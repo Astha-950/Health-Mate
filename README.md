@@ -1,7 +1,7 @@
-# Health Mate : Women's Health Clustering & Personalized Recommendations
+# Health Mate 
 
 ## 📌 Overview
-**Health Mate** is an AI-powered health companion designed to support women in managing PCOS (Polycystic Ovary Syndrome) by providing personalized health recommendations. Submitted under the **Infosys Springboard iAccelerate Women’s Hackathon 2025**.
+**Health Mate** is an AI-powered health companion designed to support women in managing PCOS (Polycystic Ovary Syndrome) by providing personalized health recommendations.
 
 The application leverages **machine learning** to analyze women's health data and provide **personalized health recommendations**.It clusters users based on key health parameters like **weight gain, hair loss, acne, period regularity, and exercise, etc** to generate insights for managing conditions like **PCOS (Polycystic Ovary Syndrome)**.
 
@@ -63,15 +63,15 @@ The application is built using **Streamlit** for the frontend, with **Agglomerat
 3. **Personalized health recommendations**: The app provides practical, culturally relevant health advice.
 
 ## Archetecture Diagram
-| ![Diagram](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/architecture_women.jpg.png) |
+| ![Diagram](https://github.com/Astha-950/Health-Mate/blob/main/assets/architecture_women.jpg.png) |
 
 ## FlowChart
-| ![FlowChart](https://github.com/jyotsna030/PCOSaathi/blob/main/women-flowchart.png) |
+| ![FlowChart](https://github.com/Astha-950/Health-Mate/blob/main/women-flowchart.png) |
 
 ## 🖼 Screenshots
 | Input Section | Recommendation Output |
 |-----------|--------------|-----------------------|
-| ![Input](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/Pic_1.png) | ![Output](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/Pic_2.png) |
+| ![Input](https://github.com/Astha-950/Health-Mate/blob/main/assets/Pic_1.png) | ![Output](https://github.com/Astha-950/Health-Mate/blob/main/assets/Pic_2.png) |
 
 
 ## Future Scope
