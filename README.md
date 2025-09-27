@@ -1,7 +1,7 @@
-# PCOSaathi : Women's Health Clustering & Personalized Recommendations
+# Health Mate : Women's Health Clustering & Personalized Recommendations
 
 ## 📌 Overview
-**PCOSaathi** is an AI-powered health companion designed to support women in managing PCOS (Polycystic Ovary Syndrome) by providing personalized health recommendations. Submitted under the **Infosys Springboard iAccelerate Women’s Hackathon 2025**.
+**Health Mate** is an AI-powered health companion designed to support women in managing PCOS (Polycystic Ovary Syndrome) by providing personalized health recommendations. Submitted under the **Infosys Springboard iAccelerate Women’s Hackathon 2025**.
 
 The application leverages **machine learning** to analyze women's health data and provide **personalized health recommendations**.It clusters users based on key health parameters like **weight gain, hair loss, acne, period regularity, and exercise, etc** to generate insights for managing conditions like **PCOS (Polycystic Ovary Syndrome)**.
 
@@ -73,8 +73,6 @@ The application is built using **Streamlit** for the frontend, with **Agglomerat
 |-----------|--------------|-----------------------|
 | ![Input](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/Pic_1.png) | ![Output](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/Pic_2.png) |
 
-## 🎥 Demo Video
-Watch the full demo on YouTube: [YouTube Link Here](https://youtu.be/CkTIu8qL9Mg?si=4wdsHI7fi5PewnPj)
 
 ## Future Scope
 Here’s a well-defined **Future Scope** section you can add to your README:  
@@ -83,7 +81,7 @@ Here’s a well-defined **Future Scope** section you can add to your README:
 
 ## 🚀 Future Scope  
 
-PCOSaathi has the potential to evolve into a **comprehensive AI-powered women’s health assistant**. Future improvements include:  
+Health Mate has the potential to evolve into a **comprehensive AI-powered women’s health assistant**. Future improvements include:  
 
 ### 1️⃣ **Enhanced Machine Learning Models**  
 - Integration of **deep learning models (LSTMs, Transformer-based models)** for more **accurate health predictions**.  
